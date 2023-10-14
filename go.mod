@@ -27,6 +27,7 @@ require (
 	github.com/operator-framework/api v0.17.3
 	github.com/operator-framework/operator-lifecycle-manager v0.24.0
 	github.com/rh-ecosystem-edge/kernel-module-management v0.0.0-20230727220418-baf359495376
+	github.com/smart-edge-open/sriov-fec-operator v0.0.0-20230731192054-e5e578e839d1
 	go.universe.tf/metallb v0.13.7
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
 	gopkg.in/k8snetworkplumbingwg/multus-cni.v4 v4.0.2
